@@ -2,7 +2,7 @@
 
 😊 My name is Mitya, 21 y.o., and I'm a beginner developer and researcher from Moscow, Russia!
 
-🧠 I am a 3rd-year student at the Faculty of Computational Mathematics and Cybernetics at Moscow State University!
+🧠 I'm a 3rd-year student at the Faculty of Computational Mathematics and Cybernetics at Moscow State University!
 
 🚀 Machine Learning Lab for Automatic Text Processing!
 
