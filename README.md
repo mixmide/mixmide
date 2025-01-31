@@ -16,7 +16,7 @@
 - [Course on System Programming (23/24)](link-to-repository) — A course is in the 2nd year of the CMC Faculty, 4th semester.
 - [Course on Operating Systems (23/24)](link-to-repository) — A course is in the 2nd year of the CMC Faculty, 3rd semester.
 - [Computer workshop on the course "Introduction to numerical methods" (23/24)](https://github.com/mixmide/numerical_methods) — A course on solving systems of linear algebraic equations using the tridiagonal matrix algorithm (Thomas algorithm).
-- [A new method of digital didactics (2021)](link-to-repository) — A school project to create textbooks using QR technologies that can be used to visualize textual information on difficult-to-understand topics.
+- [A new method of digital didactics (2021)](https://github.com/mixmide/new_method_of_digital_didactics) — A school project to create textbooks using QR technologies that can be used to visualize textual information on difficult-to-understand topics.
 
 ## 📫 How to Reach Me
 - Email: [mitya.zverev.777@gmail.com](mailto:mitya.zverev.777@gmail.com)
