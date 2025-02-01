@@ -19,7 +19,7 @@
 - [A new method of digital didactics (2021)](https://github.com/mixmide/new_method_of_digital_didactics) — A school project to create textbooks using QR technologies that can be used to visualize textual information on difficult-to-understand topics.
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mixmide&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mixmide&layout=compact&theme=dark&hide_border=true&langs_count=5)
 
 ---
 ## 📫 How to Reach Me
