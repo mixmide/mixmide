@@ -8,10 +8,10 @@
 
 ## 📚 My Projects
 
-- My coursework (24/25) — **in development**.
-- [CMC MSU ML course (24/25)](link-to-repository) — A course on Machine Learning from the Faculty of Computational Mathematics and Cybernetics at Moscow State University.
-- [MSU DL course (24/25)](link-to-repository) — A university-wide course on Deep Learning.
-- [Course on Unstructured Data Analysis (24/25)](link-to-repository) — A course on Unstructured Data Analysis from the Department of Algorithmic Languages at the Faculty of Computational Mathematics and Cybernetics, 5th semester.
+- [My coursework (24/25)](https://github.com/mixmide/coursework) — **in development**.
+- [CMC MSU ML course (24/25)](https://github.com/mixmide/CMC_MSU_ML_course_24-25) — A course on Machine Learning from the Faculty of Computational Mathematics and Cybernetics at Moscow State University.
+- [MSU DL course (24/25)](https://github.com/mixmide/MSU_DL_course_2024) — A university-wide course on Deep Learning.
+- [Course on Unstructured Data Analysis (24/25)](https://github.com/mixmide/unstructured_data_analysis_2024) — A course on Unstructured Data Analysis from the Department of Algorithmic Languages at the Faculty of Computational Mathematics and Cybernetics, 5th semester.
 - [Special course "Automatic extraction of knowledge from texts" (23/24)](https://github.com/mixmide/automatic_extraction_of_knowledge_from_texts_course_2024) — A special course from the Department of Algorithmic Languages at the Faculty of Computational Mathematics and Cybernetics.
 - [Course on System Programming (23/24)](https://github.com/mixmide/SP_2024) — A course is in the 2nd year of the CMC Faculty, 4th semester.
 - [Course on Operating Systems (23/24)](https://github.com/mixmide/OS_2023) — A course is in the 2nd year of the CMC Faculty, 3rd semester.
