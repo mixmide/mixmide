@@ -23,4 +23,8 @@
 - Telegram: [@dmitryzverev_official](https://t.me/dmitryzverev_official)
 
 ---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mixmide&layout=compact)
+
+---
 > "The more I learn, the more I realize how much I don't know." — Albert Einstein
