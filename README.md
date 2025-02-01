@@ -17,14 +17,14 @@
 - [Course on Operating Systems (23/24)](https://github.com/mixmide/OS_2023) — A course is in the 2nd year of the CMC Faculty, 3rd semester.
 - [Computer workshop on the course "Introduction to numerical methods" (23/24)](https://github.com/mixmide/numerical_methods) — A course on solving systems of linear algebraic equations using the tridiagonal matrix algorithm (Thomas algorithm).
 - [A new method of digital didactics (2021)](https://github.com/mixmide/new_method_of_digital_didactics) — A school project to create textbooks using QR technologies that can be used to visualize textual information on difficult-to-understand topics.
-
-## 📫 How to Reach Me
-- Email: [mitya.zverev.777@gmail.com](mailto:mitya.zverev.777@gmail.com)
-- Telegram: [@dmitryzverev_official](https://t.me/dmitryzverev_official)
-
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mixmide&layout=compact)
+
+---
+## 📫 How to Reach Me
+- Email: [mitya.zverev.777@gmail.com](mailto:mitya.zverev.777@gmail.com)
+- Telegram: [@dmitryzverev_official](https://t.me/dmitryzverev_official)
 
 ---
 > "The more I learn, the more I realize how much I don't know." — Albert Einstein
