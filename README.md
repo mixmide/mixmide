@@ -4,7 +4,7 @@
 
 🧠 I'm a 3rd-year student at the Faculty of Computational Mathematics and Cybernetics at Moscow State University!
 
-🚀 Special seminar Machine learning in automatic text processing based on the Laboratory of Information Resources Analysis at the Moscow State University Research and Development Center!
+🚀 Special seminar Machine learning in automatic text processing based on the Laboratory of Information Resources Analysis of the MSU Scientific Research Computing Center!!
 
 ## 📚 My Projects
 
