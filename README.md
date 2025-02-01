@@ -12,7 +12,7 @@
 - [CMC MSU ML course (24/25)](link-to-repository) — A course on Machine Learning from the Faculty of Computational Mathematics and Cybernetics at Moscow State University.
 - [MSU DL course (24/25)](link-to-repository) — A university-wide course on Deep Learning.
 - [Course on Unstructured Data Analysis (24/25)](link-to-repository) — A course on Unstructured Data Analysis from the Department of Algorithmic Languages at the Faculty of Computational Mathematics and Cybernetics, 5th semester.
-- [Special course "Automatic extraction of knowledge from texts" (23/24)](link-to-repository) — A special course from the Department of Algorithmic Languages at the Faculty of Computational Mathematics and Cybernetics.
+- [Special course "Automatic extraction of knowledge from texts" (23/24)](https://github.com/mixmide/SP_2024) — A special course from the Department of Algorithmic Languages at the Faculty of Computational Mathematics and Cybernetics.
 - [Course on System Programming (23/24)](link-to-repository) — A course is in the 2nd year of the CMC Faculty, 4th semester.
 - [Course on Operating Systems (23/24)](https://github.com/mixmide/OS_2023) — A course is in the 2nd year of the CMC Faculty, 3rd semester.
 - [Computer workshop on the course "Introduction to numerical methods" (23/24)](https://github.com/mixmide/numerical_methods) — A course on solving systems of linear algebraic equations using the tridiagonal matrix algorithm (Thomas algorithm).
