@@ -8,7 +8,7 @@
 
 ## 📚 My Projects
 
-- [My coursework (24/25)](link-to-repository) — **in development**.
+- [My coursework (24/25)](link-to-repository) [**in development**].
 - [CMC MSU ML course (24/25)](link-to-repository) — A course on Machine Learning from the Faculty of Computational Mathematics and Cybernetics at Moscow State University.
 - [MSU DL course (24/25)](link-to-repository) — A university-wide course on Deep Learning.
 - [Course on Unstructured Data Analysis (24/25)](link-to-repository) — A course on Unstructured Data Analysis from the Department of Algorithmic Languages at the Faculty of Computational Mathematics and Cybernetics, 5th semester.
