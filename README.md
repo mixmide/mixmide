@@ -9,7 +9,7 @@
 ## 📚 My Projects
 
 - [My coursework (24/25)](https://github.com/mixmide/coursework) — **in development**.
-- [Special course (from CMC MSU): Basics of LLM Training](https://github.com/mixmide/Basics-of-LLM-Training_special-course-spring-2025) — **course continues**
+- [Special course (from CMC MSU): Basics of LLM Training, spring 2025](https://github.com/mixmide/Basics-of-LLM-Training_special-course-spring-2025) — **course continues**
 - [VK course: Algorithms and Data Structures, spring 2025](https://github.com/mixmide/VK-course_Algorithms-and-Data-Structures) — **course continues**.
 - [CMC MSU ML course (24/25)](https://github.com/mixmide/CMC_MSU_ML_course_24-25) — A course on Machine Learning from the Faculty of Computational Mathematics and Cybernetics at Moscow State University.
 - [MSU DL course (24/25)](https://github.com/mixmide/MSU_DL_course_2024) — A university-wide course on Deep Learning.
