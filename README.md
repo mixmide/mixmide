@@ -1,14 +1,14 @@
 # Hello, comrade! 🪐
 
-😊 My name is Mitya, 21 y.o., and I'm a beginner developer and researcher from Moscow, Russia!
+😊 My name is Mitya, 22 y.o., and I'm a beginner developer and researcher from Moscow, Russia!
 
-🧠 I'm a 3rd-year student at the Faculty of Computational Mathematics and Cybernetics at Moscow State University!
+🧠 I'm a 4th-year student at the Faculty of Computational Mathematics and Cybernetics at Moscow State University!
 
 🚀 Special seminar Machine learning in automatic text processing based on the Laboratory of Information Resources Analysis of the MSU Scientific Research Computing Center!
 
 ## 📚 My Projects
 
-- [My coursework (24/25)](https://github.com/mixmide/coursework) — **in development**.
+- [My coursework (24/25)](https://github.com/mixmide/coursework) — reporting work at the end of the 3rd year of CMC MSU.
 - [Special course "Basics of LLM Training", spring 2025](https://github.com/mixmide/Basics-of-LLM-Training_special-course-spring-2025) — Special course "Basics of LLM Training", CMC MSU, spring 2025.
 - [VK course: Algorithms and Data Structures, spring 2025](https://github.com/mixmide/VK-course_Algorithms-and-Data-Structures) — VK course "Algorithms and Data structures" for students of Moscow State University and MIPT, spring 2025.
 - [CMC MSU ML course (24/25)](https://github.com/mixmide/CMC_MSU_ML_course_24-25) — A course on Machine Learning from the Faculty of Computational Mathematics and Cybernetics at Moscow State University.
