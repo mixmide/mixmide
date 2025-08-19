@@ -9,6 +9,7 @@
 ## 📚 My Projects
 
 - [My coursework (24/25)](https://github.com/mixmide/coursework) — Reporting work at the end of the 3rd year of CMC MSU on the topic of *quality problems of training collections for instruction-tuned LLM*.
+- [RAG-experiment (2025)](https://github.com/mixmide/RAG_juridical__experiment) — RAG-system based on regulatory documents.
 - [Special course "Basics of LLM Training", spring 2025](https://github.com/mixmide/Basics-of-LLM-Training_special-course-spring-2025) — Special course "Basics of LLM Training", CMC MSU, spring 2025.
 - [CMC MSU ML course (24/25)](https://github.com/mixmide/CMC_MSU_ML_course_24-25) — A course on Machine Learning from the Faculty of Computational Mathematics and Cybernetics at Moscow State University.
 - [MSU DL course (24/25)](https://github.com/mixmide/MSU_DL_course_2024) — A university-wide course on Deep Learning.
